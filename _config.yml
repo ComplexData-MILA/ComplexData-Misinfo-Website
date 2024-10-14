@@ -1,15 +1,15 @@
 # Site settings
-title: CDL Misinfo
-email: guany27@mcmaster.ca
+title: CDL Misinfo Datasets
+email: misinfodataset@googlegroups.com
 description: >
-  Documentation for the Misinfo Datasaet.
+  Documentation for the CDL Misinfo Datasaets.
 lang: en-US
 encoding: utf-8
 
-baseurl: "/ComplexData-Misinfo-test1" # the subpath of your site, e.g. /blog/
+baseurl: "/Misinfo-Datasets" # the subpath of your site, e.g. /blog/
 # url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
-git_address: https://github.com/YXGuan/ComplexData-Misinfo-test1
-git_edit_address: ://github.com/YXGuan/ComplexData-Misinfo-test1/blob/main
+git_address: https://github.com/ComplexData-MILA/ComplexData-Misinfo-Website
+git_edit_address: ://github.com/ComplexData-MILA/ComplexData-Misinfo-Website/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
