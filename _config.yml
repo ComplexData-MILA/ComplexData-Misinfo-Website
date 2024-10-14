@@ -6,7 +6,7 @@ description: >
 lang: en-US
 encoding: utf-8
 
-baseurl: "/ComplexData-Misinfo-Website" # the subpath of your site, e.g. /blog/
+baseurl: "https://misinfo-datasets.complexdatalab.com" # the subpath of your site, e.g. /blog/
 # url: https://tgb.complexdatalab.com # the base hostname & protocol for your site
 git_address: https://github.com/ComplexData-MILA/ComplexData-Misinfo-Website
 git_edit_address: ://github.com/ComplexData-MILA/ComplexData-Misinfo-Website/blob/main
